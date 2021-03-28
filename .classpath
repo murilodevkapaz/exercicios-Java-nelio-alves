@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Abstract/src"/>
+	<classpathentry kind="src" path="AccessFile/src/application"/>
+	<classpathentry kind="src" path="AccountException/src"/>
+	<classpathentry kind="src" path="aulaJPA/.mvn/wrapper"/>
+	<classpathentry kind="src" path="aulaJPA/src/main/java"/>
+	<classpathentry kind="src" path="aulaJPA/src/test/java"/>
+	<classpathentry kind="src" path="CompositionExemple/src"/>
+	<classpathentry kind="src" path="CreateCsv/src"/>
+	<classpathentry kind="src" path="CreateFolder/src"/>
+	<classpathentry kind="src" path="Date/src"/>
+	<classpathentry kind="src" path="Employes/src"/>
+	<classpathentry kind="src" path="InheritanceProduct/src"/>
+	<classpathentry kind="src" path="InterfaceRentCar/src"/>
+	<classpathentry kind="src" path="Methods/src"/>
+	<classpathentry kind="src" path="Reservation/src"/>
+	<classpathentry kind="output" path="Abstract/bin"/>
+</classpath>
